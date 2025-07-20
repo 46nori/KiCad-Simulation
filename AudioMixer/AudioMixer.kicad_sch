@@ -4302,7 +4302,25 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 203.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "1N4148/1N4148.spice"
+			(at 203.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "M_1N4148"
 			(at 203.2 105.41 0)
 			(effects
 				(font
@@ -4457,7 +4475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Params" "dc=0 ampl=1.0 f=10 td=0 theta=0 phase=0 ac=1"
+		(property "Sim.Params" "dc=0 ampl=2.0 f=10 td=0 theta=0 phase=0 ac=1"
 			(at 27.94 137.0301 0)
 			(effects
 				(font
@@ -5254,7 +5272,25 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 210.82 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "1N4148/1N4148.spice"
+			(at 210.82 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "M_1N4148"
 			(at 210.82 116.84 0)
 			(effects
 				(font
@@ -5351,7 +5387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Params" "r=2.2k"
+		(property "Sim.Params" "r=3.65k"
 			(at 165.1 52.07 0)
 			(effects
 				(font
@@ -7308,7 +7344,25 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 210.82 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "1N4148/1N4148.spice"
+			(at 210.82 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "M_1N4148"
 			(at 210.82 105.41 0)
 			(effects
 				(font
@@ -8465,7 +8519,25 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 203.2 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "1N4148/1N4148.spice"
+			(at 203.2 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "M_1N4148"
 			(at 203.2 116.84 0)
 			(effects
 				(font
