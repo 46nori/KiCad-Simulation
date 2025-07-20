@@ -17,7 +17,7 @@
       },
       "legend": {
         "x": 874,
-        "y": 29
+        "y": 24
       },
       "margins": {
         "bottom": 45,
@@ -76,6 +76,16 @@
           "signal": "V(OUTPUT)",
           "trace_type": 257
         }
+      ]
+    },
+    {
+      "analysis": "OP",
+      "commands": [
+        ".op",
+        ".kicad adjustpaths",
+        ".save all",
+        ".probe alli",
+        ".probe allp"
       ]
     }
   ],

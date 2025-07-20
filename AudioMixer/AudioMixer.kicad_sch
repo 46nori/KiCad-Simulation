@@ -2161,9 +2161,9 @@
 		)
 		(uuid "0f8c86e3-df10-4453-a4ea-80ac4aafdc99")
 	)
-	(text "減衰アンプ : 0.28 (-11.1dB)\n前段の最大出力を20Vp-pとしたとき\nLINE OUTの標準である2V RMSに収まるようにする。\n\nInput : 20Vp-p(max)\nOutput : 5.6Vp-p (2V RMS : Audio LINE OUT)\n0.28 = 10K / (33K + 2.2K)"
+	(text "減衰アンプ : 0.2695 (-11.39dB)\n前段の最大出力を21Vp-pとしたとき\nLINE OUTの標準である2V RMSに収まるようにする。"
 		(exclude_from_sim no)
-		(at 150.114 83.058 0)
+		(at 150.368 81.534 0)
 		(effects
 			(font
 				(size 1.27 1.27)
